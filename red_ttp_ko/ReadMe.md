@@ -11,6 +11,9 @@
 |Command |Change(Y/N)|Reviewer|
 |:---------------------|:-------------------------:|:--------------------:|
 |at_command.py | Y|maxKim|
-|common.py | N|idk3669|
 |certutil_file_obfuscation.py | N|idk3669|
 |certutil_webrequest.py | Y|idk3669|
+|common.py | N|idk3669|
+|delete_catalogs.py | N|idk3669|
+|delete_usnjrnl.py | N|idk3669|
+|delete_volume_shadows.py | N|idk3669|
