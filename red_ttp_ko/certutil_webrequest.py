@@ -2,7 +2,6 @@
 # RTA: certutil_webrequest.py
 # ATT&CK: T1105
 # Description: Uses certutil.exe to download a file.
-# 원격 파일 복사
 import common
 
 MY_DLL = common.get_path("bin", "mydll.dll")
