@@ -1,1 +1,1 @@
-# Intelligence Incident Response Platform
+# Intelligent Incident Response Platform
