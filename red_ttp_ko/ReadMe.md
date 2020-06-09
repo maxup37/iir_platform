@@ -3,3 +3,6 @@
 
 ## Contributors
 * maxKim
+* air83
+* asch0712
+* idk3669
