@@ -8,6 +8,6 @@
 * idk3669
 
 ## Change History
-|Command | Change(Y/N)|
+|:Command :|: Change(Y/N):|
 |--------|------------|
-|at_command.py | Y|
+|:at_command.py |: Y:|
