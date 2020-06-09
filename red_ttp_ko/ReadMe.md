@@ -11,3 +11,4 @@
 |Command |Change(Y/N)|Reviewer|
 |:---------------------|:-------------------------:|:--------------------:|
 |at_command.py | Y|maxKim|
+|certutil_file_obfuscation.py | N|idk3669|
