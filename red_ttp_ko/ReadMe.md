@@ -17,3 +17,10 @@
 |delete_catalogs.py | N|idk3669|
 |delete_usnjrnl.py | N|idk3669|
 |delete_volume_shadows.py | N|idk3669|
+|disable_windows_fw.py | N|idk3669|
+|enum_commands.py | N|idk3669|
+|findstr_pw_search.py | N|idk3669|
+|installutil_network.py | N|idk3669|
+|lateral_commands.py | N|idk3669|
+|msbuild_network.py | N|idk3669|
+|mshta_network.py | N|idk3669|
