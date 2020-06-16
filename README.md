@@ -72,28 +72,36 @@
    > kb3033929 설치
 
 * sysmon-config.xml
+
   **변경전** 
-       *  <PipeEvent onmatch="exclude">
+     > <PipeEvent onmatch="exclude">
 	
-	             <EVENTID condition="is">1</EVENTID> 
+     > EVENTID condition="is">1</EVENTID> 
      
-          </PipeEvent>
+     > </PipeEvent>
           
    **변경후**   
    
-        * <PipeEvent onmatch="include">
-									   
-          </PipeEvent>
+        > <PipeEvent onmatch="include">
+			
+	> **삭제**
+	
+        > </PipeEvent>
           
    **변경전**
-       *   <WmiEvent onmatch="include">
+   
+       >  <WmiEvent onmatch="include">
 		
-		<Operation condition="is">Created</Operation> 
+       >      <Operation condition="is">Created</Operation> 
             
-	    </WmiEvent>
+       >  </WmiEvent>
            
    **변경후**     
-      * <WmiEvent onmatch="include">
+   
+        > <WmiEvent onmatch="include">
+	
+	> **삭제** 
+	
 	> </WmiEvent>
         
 [[ Elasticsearch ]] 
