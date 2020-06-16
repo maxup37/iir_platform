@@ -75,7 +75,7 @@
 
   **변경전** 
      
-    > <PipeEvent onmatch="exclude">
+    > \<PipeEvent onmatch="exclude"\>
 	
     > EVENTID condition="is">1</EVENTID> 
      
