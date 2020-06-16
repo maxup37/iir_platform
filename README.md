@@ -73,7 +73,7 @@
 
 * sysmon-config.xml
   **변경전** 
-       >  <PipeEvent onmatch="exclude">
+       *  <PipeEvent onmatch="exclude">
 	
 	             <EVENTID condition="is">1</EVENTID> 
      
@@ -81,21 +81,20 @@
           
    **변경후**   
    
-        > <PipeEvent onmatch="include">
+        * <PipeEvent onmatch="include">
 									   
           </PipeEvent>
           
    **변경전**
-       >   <WmiEvent onmatch="include">
-  
-			         <Operation condition="is">Created</Operation> 
+       *   <WmiEvent onmatch="include">
+		
+		<Operation condition="is">Created</Operation> 
             
-		       </WmiEvent>
+	    </WmiEvent>
            
    **변경후**     
-      > <WmiEvent onmatch="include">
-																																						   
-	     	</WmiEvent>
+      * <WmiEvent onmatch="include">
+	> </WmiEvent>
         
 [[ Elasticsearch ]] 
 * network.host 설정 bootstrap checks failed
