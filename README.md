@@ -71,7 +71,32 @@
    
    > kb3033929 설치
 
-
+* sysmon-config.xml
+  **변경전** 
+       >  <PipeEvent onmatch="exclude">
+	
+	             <EVENTID condition="is">1</EVENTID> 
+     
+          </PipeEvent>
+          
+   **변경후**   
+   
+        > <PipeEvent onmatch="include">
+									   
+          </PipeEvent>
+          
+   **변경전**
+       >   <WmiEvent onmatch="include">
+  
+			         <Operation condition="is">Created</Operation> 
+            
+		       </WmiEvent>
+           
+   **변경후**     
+      > <WmiEvent onmatch="include">
+																																						   
+	     	</WmiEvent>
+        
 [[ Elasticsearch ]] 
 * network.host 설정 bootstrap checks failed
   > https://soye0n.tistory.com/178
