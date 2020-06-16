@@ -4,7 +4,7 @@
 * Open Source Endpoint monitoring 
   - https://github.com/DearBytes/Opensource-Endpoint-Monitoring
   
-  - ![screenshot]("https://github.com/maxup37/iir_platform/blob/master/Conceptual_diagram.jpg")
+  - ![screenshot]("./Conceptual_diagram.jpg")
 
 ##  환경 구성 
 * Windows 7 32bit (Endpoint 환경) - VM 구성
