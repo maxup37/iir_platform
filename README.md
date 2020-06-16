@@ -1,10 +1,10 @@
 # Intelligent Incident Response Platform
 
-## [[ 목표 구성도 참고 ]]
+##  목표 구성도 참고 
 * Open Source Endpoint monitoring 
   - https://github.com/DearBytes/Opensource-Endpoint-Monitoring
   
-## [[ 환경 구성 ]]
+##  환경 구성 
 * Windows 7 32bit (Endpoint 환경) - VM 구성
   - Python 2.7 32bit
   - Elastic Winlogbeat 7.6.2
@@ -32,7 +32,7 @@
   - elastalert 설치
     > https://elastalert.readthedocs.io/en/latest/running_elastalert.html
 
-## [[ 실행 방법 ]]
+##  실행 방법 
 
 * Win7sp1 sysmon vm 환경 실행
 
@@ -53,7 +53,7 @@
   >/elastalert  
   >elastalert --verbose --start  --config <config.yaml> --rule <error.yaml>
  
-## [[메뉴얼 ]]
+## 메뉴얼 
 
 * sysmon
   > https://github.com/trustedsec/SysmonCommunityGuide/blob/master/Sysmon.md
@@ -64,7 +64,8 @@
 * elastalert
   > https://elastalert.readthedocs.io/en/latest/running_elastalert.html
   
- ## [[오류 수정 ]]
+ ## 오류 수정 
+ [[ windows 7 ]]
  * sysmon 10.x 실행 오류
   > kb2533623 설치 (wevtapi.dll 문제)
   > kb3033929 설치
