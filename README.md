@@ -3,7 +3,8 @@
 ##  목표 구성도 참고 
 * Open Source Endpoint monitoring 
   - https://github.com/DearBytes/Opensource-Endpoint-Monitoring
-  <a href="#"><img src="다운로드/Conceptual_diagram.jpg" width="400px" alt="sample image"></a> 
+  <a href="#"><img src="https://github.com/다운로드/Conceptual_diagram.jpg" width="400px" alt="sample image"></a> 
+
 ##  환경 구성 
 * Windows 7 32bit (Endpoint 환경) - VM 구성
   - Python 2.7 32bit
