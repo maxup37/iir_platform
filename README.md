@@ -99,7 +99,7 @@
            
    **변경후**     
    
-     > <WmiEvent onmatch="include">
+     > \<WmiEvent onmatch="include"\>
 	
      > **삭제** 
 	
