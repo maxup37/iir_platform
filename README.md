@@ -113,6 +113,10 @@
 * network.host 설정 bootstrap checks failed
   > https://soye0n.tistory.com/178
 
+
+[[ Elastalert ]]
+* pip install 오류
+  > python version 3.6 다운
 ## Contributors
 * maxup37
 * idk3669
