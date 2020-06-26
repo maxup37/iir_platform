@@ -24,18 +24,18 @@
 |lateral_commands.py | N|idk3669|
 |msbuild_network.py | N|idk3669|
 |mshta_network.py | N|idk3669|
-|msiexec_http_installer | N|air83|
-|msxsl_network | N|air83|
-|net_user_add | N|air83|
-|office_application_startup | N|air83|
-|persistent_scriptsp | N|air83|
-|powershell_args | N|air83|
-|process_extension_anomalies | N|air83|
-|process_name_masquerade | N|air83|
-|recycle_bin_process | N|air83|
-|registry_hive_export | N|air83|
-|registry_persistence_create | N|air83|
-|regsvr32_scrobj| N|air83|
-|rundll32_inf_callback| N|air83|
-|rundll32_ordinal| Y|air83|
-|schtask_escalation| N|air83|
+|msiexec_http_installer | N|asch0712|
+|msxsl_network | N|asch0712|
+|net_user_add | N|asch0712|
+|office_application_startup | N|asch0712|
+|persistent_scriptsp | N|asch0712|
+|powershell_args | N|asch0712|
+|process_extension_anomalies | N|asch0712|
+|process_name_masquerade | N|asch0712|
+|recycle_bin_process | N|asch0712|
+|registry_hive_export | N|asch0712|
+|registry_persistence_create | N|asch0712|
+|regsvr32_scrobj| N|asch0712|
+|rundll32_inf_callback| N|asch0712|
+|rundll32_ordinal| Y|asch0712|
+|schtask_escalation| N|asch0712|
