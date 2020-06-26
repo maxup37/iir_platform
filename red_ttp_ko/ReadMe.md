@@ -38,4 +38,4 @@
 |regsvr32_scrobj| N|air83|
 |rundll32_inf_callback| N|air83|
 |rundll32_ordinal| Y|air83|
-|schtask_escalation| Y|air83|
+|schtask_escalation| N|air83|
