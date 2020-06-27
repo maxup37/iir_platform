@@ -28,7 +28,7 @@
 |msxsl_network | N|asch0712|
 |net_user_add | N|asch0712|
 |office_application_startup | N|asch0712|
-|persistent_scriptsp | N|asch0712|
+|persistent_scripts | N|asch0712|
 |powershell_args | N|asch0712|
 |process_extension_anomalies | N|asch0712|
 |process_name_masquerade | N|asch0712|
