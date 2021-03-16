@@ -70,6 +70,9 @@
   
  ## 오류 수정 
  [[ windows 7 ]]
+ * msbuild_network.py관련
+   > MS dot NET Framework 4.0 설치
+   
  * sysmon 10.x 실행 오류
    > kb2533623 설치 (wevtapi.dll 문제)
    
